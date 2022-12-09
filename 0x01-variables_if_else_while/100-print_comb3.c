@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - Print combinations of two digit numbers
+* main - Print the numbers of base 16 in lowercase
 *
 * Return: Always 0 (Success)
 */
@@ -24,7 +24,7 @@ int main(void)
 	    }
 	}
     }
-  putchar('\n');
+ putchar('\n');
 
   return (0);
 }
